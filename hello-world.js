@@ -7,3 +7,4 @@ console.log(`Platform: ${process.platform} (${process.arch})`);
 console.log(`Executado em: ${new Date().toLocaleString(`pt-Br`)}`);
 
 console.log('--------------------------------------------------');
+
